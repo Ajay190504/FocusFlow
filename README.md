@@ -13,6 +13,8 @@
 *MENTOR* : NEELA SANTHOSH
 
 
+#Description :
+
 *FocusFlow: A Chrome Extension for Personal Productivity Tracking
 FocusFlow is an advanced Chrome extension designed to help users improve personal productivity by combining time management, task tracking, 
 and website activity monitoring in one unified interface. Built with a modern technology stack and a clean, responsive UI, FocusFlow supports users in setting daily goals,
@@ -29,7 +31,8 @@ A Daily Inspiration feature offers motivational quotes each day to encourage a p
 One of the most impactful features of FocusFlow is its ability to monitor and visualize browsing activity using the Chrome Extension APIs. It tracks the time spent on different websites, categorizes them, and presents the data visually—helping users recognize unproductive patterns and minimize distractions.
 
 
-*Technology Stack
+
+#Technology Stack
 Frontend:
 
 React.js – Used to build a fast, modular, and responsive user interface.
@@ -47,6 +50,6 @@ IDE : VS Code
 Git and GitHub : Version Control
 
 
-*Output :
+#Output :
 
 ![Image](https://github.com/user-attachments/assets/e8cdee60-6c6d-4891-ba3b-65367595c2ae)
